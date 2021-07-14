@@ -1,0 +1,161 @@
+body{
+    background-color: #e4bad7;
+}
+
+.skew{
+    margin-top:-150px;
+    padding:150px 0;
+    transform:skew(0deg, -8deg);
+    background:#653769;
+
+
+}
+
+.content{
+    font-family: felix titling;
+    font-size: 60px;
+    text-align: center;
+    transform:skew(0deg, 8deg);
+    padding-top:30px;
+    color:white;
+}
+
+.content2{
+    text-align: center;
+    transform:skew(0deg, 8deg);
+    padding-top:30px;
+    color:white;
+}
+
+
+
+.header{
+    font-family: felix titling;
+    font-size: 60px;
+
+}
+
+.img{
+    position:absolute;
+    width: 550px;
+    height: 400px;
+    padding-top: 50px;
+    padding-left: 150px;
+    float: left;
+    
+    
+
+}
+
+.ninapara{
+    position:absolute;
+    padding-left: 30px;
+    padding-left:40px;
+    text-align: center;
+    width:400px;
+    height:400px;
+    float: left;
+    padding-bottom: -130px;
+    
+}
+
+.ninapara2{
+    position:absolute;
+    padding-top:500px;
+    width:400px;
+    height:400px;
+    text-align: center;
+    padding-left:30px;
+    float:left;
+}
+
+
+
+.img2{
+    
+    position:absolute;
+    width: 550px;
+    height: 400px;
+    margin-top: 450px;
+    padding-top: 50px;
+    padding-left: 150px;
+    
+    }
+
+    .roar{
+    position:absolute;
+    padding-top:865px;
+    width:400px;
+    height:400px;
+    text-align: center;
+    padding-left:30px;
+    float:left;
+
+    }
+
+
+    .img3{
+    
+        position:absolute;
+        width: 600px;
+        height: 400px;
+        margin-top: 800px;
+        padding-top: 50px;
+        padding-left: 50px;
+        
+    }
+
+
+    .label{
+        font-family: Copperplate Gothic;
+        font-size: 30px;
+
+    }
+
+    /*footer{
+        background-color:rgb(20, 20, 20);
+        margin-top:-2px;
+        padding:150px 0;
+        transform:skew(0deg, -8deg);
+
+    }
+    */
+
+    /*.links{
+        padding-top: 1510px;
+        
+        
+    }
+
+    
+    /*Adobe XD Code*/
+
+    #one{
+        padding-top: 50px;
+    }
+
+/*Do not touch*/
+    #footerde{
+        position:absolute;
+        margin-top: 1200px;
+        padding-bottom:10px;
+        width: 100%;
+        background-color:rgb(41, 40, 39);
+        
+    }
+/*Do not touch*/    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+

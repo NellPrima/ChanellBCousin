@@ -1,0 +1,54 @@
+.skew{
+    margin-top:-150px;
+    padding:150px 0;
+    transform:skew(0deg, -8deg);
+    background:#653769;
+
+
+}
+
+.content{
+    font-family: felix titling;
+    font-size: 60px;
+    text-align: center;
+    transform:skew(0deg, 8deg);
+    padding-top:30px;
+    color:white;
+}
+
+.content2{
+    text-align: center;
+    transform:skew(0deg, 8deg);
+    padding-top:30px;
+    color:white;
+}
+
+
+
+.header{
+    font-family: felix titling;
+    font-size: 60px;
+
+}
+
+h2{
+    padding-bottom: -50px;
+}
+
+#photo{
+    padding-top:40px;
+}
+
+.subhead{
+    font-family: Gill sans mt;
+    font-size: 20px;
+}
+
+.footergra{
+     position:absolute;
+        margin-top: 100px;
+        padding-bottom:10px;
+        width: 100%;
+        background-color:rgb(41, 40, 39);
+        
+}
