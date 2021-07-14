@@ -8,7 +8,7 @@ import { Helmet } from 'react-helmet';
 import { headData } from '../mock/data';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Link } from 'gatsby';
-import pic10 from '../images/pic10.jpg';
+import pic10 from '../images/pic10.PNG';
 import paullogoo from '../images/paullogoo.jpg';
 
 import App from '../components/App';
