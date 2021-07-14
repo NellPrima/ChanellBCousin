@@ -3,7 +3,7 @@ import '../style/main.scss';
 import { Link } from 'gatsby';
 
 import { nanoid } from 'nanoid';
-import sfflyer from '../images/sfflyer.png';
+import sfflyer from '../images/sfflyer.PNG';
 import fogpanda from '../images/fogpanda.png';
 import pandamas from '../images/pandamas.png';
 import header5 from '../images/header5.png';
