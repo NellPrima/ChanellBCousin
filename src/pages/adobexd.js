@@ -1,7 +1,7 @@
 import React from 'react';
 import '../style/main.scss';
 import { Link } from 'gatsby';
-import mmxd from '../images/mmxd.jpg';
+import mmxd from '../images/mmxd.JPG';
 import joneslt from '../images/joneslt.png';
 import flora1 from '../images/flora1.png';
 import flora2 from '../images/flora2.png';
