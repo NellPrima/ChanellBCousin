@@ -8,7 +8,7 @@ import flora2 from '../images/flora2.png';
 import flora3 from '../images/flora3.png';
 import flora4 from '../images/flora4.png';
 import flora5 from '../images/flora5.png';
-import contactban from '../images/contactban.jpg';
+import contactban from '../images/contactban.JPG';
 import frontpg from '../images/frontpg.png';
 import shoppg from '../images/shoppg.png';
 import adobe from '../style/adobe.css';
