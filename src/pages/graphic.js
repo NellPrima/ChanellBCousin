@@ -1,14 +1,20 @@
 import React from 'react';
 import '../style/main.scss';
+import graph from '../style/graph.css';
+import fogpanda from '../images/fogpanda.png';
+import sfflyer from '../images/sfflyer.PNG';
+import pandamas from '../images/pandamas.png';
+import neontrianglesquare from '../images/neontrianglesquare.png'
+import header5 from '../images/header5.png';
 import { Link } from 'gatsby';
 
-import { nanoid } from 'nanoid';
-import sfflyer from '../images/sfflyer.PNG';
-import fogpanda from '../images/fogpanda.png';
-import pandamas from '../images/pandamas.png';
-import header5 from '../images/header5.png';
-import graph from '../style/graph.css';
-import neontrianglesquare from '../images/neontrianglesquare.png'
+
+
+
+
+
+
+
 
 
 function graphic(){
