@@ -1,15 +1,17 @@
 import React from 'react';
-import { nanoid } from 'nanoid';
+//import { nanoid } from 'nanoid';
 import joneslogo from '../images/joneslogo.png';
-import dev from '../style/dev.css';
-import About from '../components/About/About';
-import '../style/main.scss';
-import { Helmet } from 'react-helmet';
-import { headData } from '../mock/data';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import { Link } from 'gatsby';
-import pic10 from '../images/pic10.JPG';
 import paullogoo from '../images/paullogoo.jpg';
+import pic10 from '../images/pic10.JPG';
+import dev from '../style/dev.css';
+//import About from '../components/About/About';
+import '../style/main.scss';
+//import { Helmet } from 'react-helmet';
+//import { headData } from '../mock/data';
+//import 'bootstrap/dist/css/bootstrap.min.css';
+import { Link } from 'gatsby';
+
+
 
 import App from '../components/App';
 
