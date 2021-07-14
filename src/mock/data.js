@@ -1,5 +1,5 @@
 import { nanoid } from 'nanoid';
-import mmxd from '../images/mmxd.jpg';
+import mmxd from '../images/mmxd.JPG';
 import fogpanda from '../images/fogpanda.png';
 import webdesign from '../images/webdesign.jpg';
 import adobexd from '../pages/adobexd';
