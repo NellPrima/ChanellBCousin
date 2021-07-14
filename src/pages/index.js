@@ -1,7 +1,8 @@
 import React from 'react';
+import { headData } from '../mock/data';
 import { Helmet } from 'react-helmet';
 import App from '../components/App';
-import { headData } from '../mock/data';
+
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../style/main.scss';
 import { Link } from 'gatsby';
