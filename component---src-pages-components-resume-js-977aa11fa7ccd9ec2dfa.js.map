@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/components/resume.js"],"names":["resume"],"mappings":"2FAAA,gCAQeA,UANf,WACI,OACI","file":"component---src-pages-components-resume-js-977aa11fa7ccd9ec2dfa.js","sourcesContent":["import React from 'react';\r\n\r\nfunction resume(){\r\n    return(\r\n        <h1>hey</h1>\r\n    )\r\n}\r\n\r\nexport default resume"],"sourceRoot":""}

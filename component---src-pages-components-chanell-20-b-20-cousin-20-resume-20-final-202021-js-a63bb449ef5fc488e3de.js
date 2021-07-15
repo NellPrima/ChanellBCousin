@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{zreM:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return c}));var r=t("dI71"),u=t("q1tI"),o=t.n(u),c=function(n){function e(){return n.apply(this,arguments)||this}return Object(r.a)(e,n),e.prototype.render=function(){return o.a.createElement("div",null,o.a.createElement("h1",null,"hey"))},e}(u.Component)}}]);
+//# sourceMappingURL=component---src-pages-components-chanell-20-b-20-cousin-20-resume-20-final-202021-js-a63bb449ef5fc488e3de.js.map

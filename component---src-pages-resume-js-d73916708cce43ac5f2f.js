@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{F2CN:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return r}));var c=e("q1tI"),a=e.n(c),o=e("Wbzz");function r(){return a.a.createElement("div",null,a.a.createElement(o.Link,{to:"/contact/"},"Contact"))}}}]);
+//# sourceMappingURL=component---src-pages-resume-js-d73916708cce43ac5f2f.js.map
